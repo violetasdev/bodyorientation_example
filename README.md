@@ -1,5 +1,7 @@
 # Body Orientation Illustration
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/violetasdev/bodyorientation_example/HEAD)
+
 This repository is an introduction to Rrproducibility Research. Our intention is to share a dataset from the assesment of depth cameras for calculating body orientations. 
 
 The files contained are:
