@@ -18,6 +18,14 @@ In this repository, you will find:
 - *Environment requirements*. A .txt file with the library requirements for the python environment.
 
 ## Usage
+
+There are 3 main ways in which you can use this repository:
+
+- You can open localy in yout Jupyter Notebook the file 'BodyOrientations.ipynb' by clicking it on the file list. The code is divided into sections with comments.
+- You can click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/violetasdev/bodyorientation_example/HEAD), this will open an interactive session of Jupyter Notebooks in your web browser. You can then run or update the code. Rememeber any changes to the code will be lost as soon as you close the browser window.
+- You can download the repository to run it locally. This is likely to fail in the future when software versions change.
+
+In general, to use the Jupyter Notebook:
 - At the top of this README.md file, click on the **Launch | Binder** icon. You will be redirected to the Binder Website.
 - Wait until the interface is loaded with the Jupyter Notebook interface.
 - In the left panel is possible to access the files. The **data** folder contains the .csv file with the body orientation dataset.
