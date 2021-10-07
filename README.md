@@ -19,7 +19,7 @@ In this repository, you will find:
 
 ## Usage
 
-There are 3 main ways in which you can use this repository:
+There are 2 main ways in which you can use this repository:
 
 - Download the repository. You can open locally in your Jupyter Notebook installation the file 'BodyOrientations.ipynb' by clicking it on the file list. The code is divided into sections with comments. This is likely to fail in the future when software versions change.
 - You can click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/violetasdev/bodyorientation_example/HEAD), this will open an interactive session of Jupyter Notebooks in your web browser. You can then run or update the code. Rememeber any changes to the code will be lost as soon as you close the browser window.
