@@ -15,7 +15,7 @@ The evaluation included the intended orientation and the socially accepted orien
 In this repository, you will find:
 - _A single dataset for a postprocessed body orientation._ From the set of evaluated body orientations (frontal, back, frontal diagonal left and right, back diagonal left and right, side right and side left) we give access to the postprocessed joints and evaluated body orientation from **Frontal Diagonal Left**.
 - _A Jupyter Notebook._ An interaface with the python script to generate the plot for the body orientation **Frontal Diagonal Left** with the possibility to display the dataset.
-- _environemnt requirement._ A *.txt* file with the library requirements for the python environment. 
+- _environment requirement._ A *.txt* file with the library requirements for the python environment. 
 
 ## Usage
 - At the top of this README.md file, click on the **Launch | Binder** icon. You will be redirected to the Binder Website
