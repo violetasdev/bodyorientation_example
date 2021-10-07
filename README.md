@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/violetasdev/bodyorientation_example/HEAD)
 
-This repository contains data and code that reproduces figures from the paper
+This repository contains data and code that reproduces a single figure from the paper:
 
 *Sosa, V., Schwering, A., (2021): Detecting social spaces with depth cameras: evaluating location and body orientation as relevant social features. IPIN 2021: 11th International Conference on Indoor Positioning and Indoor Navigation.* (To be published)
 
@@ -13,11 +13,16 @@ The evaluation included the intended orientation and the socially accepted orien
 
 ## Data availability and software
 In this repository, you will find:
-- _A single dataset for a postprocessed body orientation._ From the set of evaluated body orientations (frontal, back, frontal diagonal left and right, back diagonal left and right, side right and side left) we give access to the postprocessed joints and evaluated body orientation from Frontal Diagonal Left.
-- _A Jupyter Notebook._ It will generate the plot for the body orientation and display the dataset. 
+- _A single dataset for a postprocessed body orientation._ From the set of evaluated body orientations (frontal, back, frontal diagonal left and right, back diagonal left and right, side right and side left) we give access to the postprocessed joints and evaluated body orientation from **Frontal Diagonal Left**.
+- _A Jupyter Notebook._ An interaface with the python script to generate the plot for the body orientation **Frontal Diagonal Left** with the possibility to display the dataset.
+- _environemnt requirement._ A *.txt* file with the library requirements for the python environment. 
 
 ## Usage
-Run the Jupyter Notebook. Each step explains the output and the goal.
+- At the top of this README.md file, click on the **Launch | Binder** icon. You will be redirected to the Binder Website
+- Wait until the interface is loaded with the Jupyter Notebook interface
+- In the left panel is possible to access the files. The **data** folder contains the *.csv* file with the body orientation dataset.
+- From the left panel, select the notebook with the extension *BodyOrientations.ipynb*
+- In the right panel, you will find an interactive interface to run the code. Start from the first cell and run every line with the play button.
 
 ## License
 MIT License
