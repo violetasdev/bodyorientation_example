@@ -4,7 +4,7 @@
 
 This repository contains data and code that reproduces a single figure from the paper:
 
-*Sosa, V., Schwering, A., (2021): Detecting social spaces with depth cameras: evaluating location and body orientation as relevant social features. IPIN 2021: 11th International Conference on Indoor Positioning and Indoor Navigation.* (To be published)
+[Sosa, V., Schwering, A., (2021): Detecting social spaces with depth cameras: evaluating location and body orientation as relevant social features. IPIN 2021: 11th International Conference on Indoor Positioning and Indoor Navigation.](https://www.researchgate.net/publication/356784002_Detecting_socially_occupied_spaces_with_depth_cameras_evaluating_location_and_body_orientation_as_relevant_social_features)
 
 ## About
 We propose a system that uses infrared depth cameras to anonymously derivate body orientation from skeleton joints. The direction of the shoulders and spine, together with the face orientation and the temporal information on occupants' walking trajectories, is used to calculate the body orientation from which socially occupied space is identified. In a user study evaluating the system, we collected data in 32 patterns within two distinct cases: individuals and dyads and assessed the system's accuracy.
